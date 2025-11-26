@@ -55,6 +55,7 @@ If a player lands on a tile currently occupied by another player’s token:
 A player wins after **all 4 tokens** reach home.
 
 ---
+##Output
 ![Ludo Screenshot](https://github.com/priyanshupr7/ludo/blob/274639ef0647c113bc085a2784e9af2033e3e676/Screenshot%202025-11-26%20151143.png?raw=true)
 
 
